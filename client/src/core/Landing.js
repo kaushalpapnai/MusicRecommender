@@ -23,8 +23,8 @@ const Landing = () => {
 								Developed by
 							</div>
 							<ul className="ml-5">
-								<li>Vaibhav Saini</li>
-								<li>Sachin Sahil</li>
+								<li>Kaushal Papnai</li>
+								<li>Himanshu</li>
 							</ul>
 						</div>
 						<div className="btn-grp">
